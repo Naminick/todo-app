@@ -7,6 +7,7 @@
     "start": "NODE_ENV=production node index.js"
   },
   "dependencies": {
+    "basic-auth-connect": "^1.1.0",
     "express": "^4.19.2",
     "pug": "^3.0.3"
   },
